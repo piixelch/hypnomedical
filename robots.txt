@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hypnomedical.piixel.ch/sitemap.xml
